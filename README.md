@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vitterre
+- 👀 I’m interested in enterprise development and data engineering
+- 🌱 I’m currently learning Java and Spring
+- 📫 How to reach me tg: @accidentalmemory
